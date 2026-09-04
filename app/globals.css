@@ -12,8 +12,7 @@ body {
   background: var(--background);
   font-family: var(--font-hanken), sans-serif;
   overflow-x: hidden;
-  selection-background-color: #b06a35;
-  selection-color: #ffffff;
+  /* selection styles are defined in ::selection below */
 }
 
 ::selection {
